@@ -7,5 +7,5 @@
 			<class name="newstudent.Login" />
 			<class name="newstudent.FinishTest" />
 		</classes>
-	</test> <!-- Test2 -->
+	</test> <!-- Test3 -->
 </suite> <!-- Suite -->
